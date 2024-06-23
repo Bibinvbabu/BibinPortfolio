@@ -55,7 +55,7 @@ Responsibilities include working on Fiber Optics .
 - **Mobile**: +91 7306596173
 - **Email**: [bilibinvbabu17@gmail.com](bilibinvbabu17@gmail.com)
 - **LinkedIn**: [bibin-v-babu](https://www.linkedin.com/in/bibin-v-babu-4a9989188)
-- **Portfolio**: [BibinPortfolio](https://Bibinvbabu.github.io/BibinPortfolio/)
+- **Portfolio**: [BibinPortfolio](https://bibinvbabu.github.io/BibinPortfolio/)
 
 ---
 
